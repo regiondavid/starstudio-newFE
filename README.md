@@ -18,13 +18,22 @@
 	- 会写常见的样式，掌握css选择器的用法，理解盒模型的概念和用法
 	- 学习常见的几种布局的写法，对position和float的用法作深入的研究
 	- 深入研究position和盒模型，研究多种居中的写法，包括水平居中和垂直居中
+	- 熟练切图，能够较好的还原设计图
 	- 学习css的2D动画和3D动画
 	- 学会使用[LESS](http://lesscss.cn/)、[SASS](http://sass.bootcss.com/docs/guide/)等CSS预处理器 
 	- 学习使用响应式布局
 	- 对移动端页面进行处理
 	- 学习使用[bootstrap](http://www.bootcss.com/)等常见的[UI框架](http://usablica.github.io/front-end-frameworks/compare.html)
 	- 对命名进行规范，HTML的语义化、css的编码风格等参考[《编写高质量代码》](https://book.douban.com/subject/4881987/)
-	
+- 练手项目
+	- [三栏式布局](http://ife.baidu.com/task/detail?taskId=3)
+	- [文章展示](http://ife.baidu.com/task/detail?taskId=5)
+	- [响应式网格（栅格化）布局](http://ife.baidu.com/task/detail?taskId=8)
+	- [技术产品官网的页面架构及样式布局](http://ife.baidu.com/task/detail?taskId=7)
+	- [模拟报纸排版](http://ife.baidu.com/task/detail?taskId=6)
+	- [实现一个复杂页面](http://ife.baidu.com/task/detail?taskId=9)
+	- [移动Web页面布局实践](http://ife.baidu.com/task/detail?taskId=11)
+
 ### 第二阶段
 - 学习方法：此阶段主要学习js，主要找到相关的书去跟着学跟着敲。在[MDN](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)上有规范。
 - 学习内容
