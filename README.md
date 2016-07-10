@@ -24,6 +24,7 @@
 	- 对移动端页面进行处理
 	- 学习使用[bootstrap](http://www.bootcss.com/)等常见的[UI框架](http://usablica.github.io/front-end-frameworks/compare.html)
 	- 对命名进行规范，HTML的语义化、css的编码风格等参考[《编写高质量代码》](https://book.douban.com/subject/4881987/)
+	
 ### 第二阶段
 - 学习方法：此阶段主要学习js，主要找到相关的书去跟着学跟着敲。在[MDN](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)上有规范。
 - 学习内容
