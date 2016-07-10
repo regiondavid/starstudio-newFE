@@ -21,9 +21,9 @@
 	- 熟练切图，能够较好的还原设计图
 	- 学习css的2D动画和3D动画
 	- 学会使用[LESS](http://lesscss.cn/)、[SASS](http://sass.bootcss.com/docs/guide/)等CSS预处理器 
-	- 学习使用响应式布局
+	- 学习使用响应式布局（如使用rem、flex、媒体查询等）
 	- 对移动端页面进行处理
-	- 学习使用[bootstrap](http://www.bootcss.com/)等常见的[UI框架](http://usablica.github.io/front-end-frameworks/compare.html)
+	- 了解[bootstrap](http://www.bootcss.com/)等常见的[UI框架](http://usablica.github.io/front-end-frameworks/compare.html)
 	- 对命名进行规范，HTML的语义化、css的编码风格等参考[《编写高质量代码》](https://book.douban.com/subject/4881987/)
 - 练手项目
 	- [三栏式布局](http://ife.baidu.com/task/detail?taskId=3)
@@ -39,7 +39,6 @@
 - 学习内容
 	- 结合[《DOM编程艺术》](https://book.douban.com/subject/6038371/)了解JavaScript中的基本语法、DOM操作等等
 	- 看着[《JavaScript高级程序设计》](https://book.douban.com/subject/10546125/)过一遍，把基础打牢，对于事件、闭包、作用域重点看。
-	- 了解[canvas](http://www.w3school.com.cn/html5/html5_canvas.asp)、[SVG绘图](http://www.w3school.com.cn/svg/)和WebGL(通过[Three.js](https://github.com/mrdoob/three.js/)去学习)
 	- 结合[《JavaScript设计模式与开发实践》](https://book.douban.com/subject/26382780/)对JavaScript的设计模式进行了解
 	- JavaScript的动画的探索
 	- 学习jQuery(建议在对原生js学习到一定程度的时候再开始)
@@ -57,13 +56,14 @@
 
 ### 第四阶段
 - 学习内容
-	- 前端自动化项目构建工具——[webpack](http://webpack.github.io/docs/)、[Gulp](http://www.gulpjs.com.cn)、[Grunt](http://www.gruntjs.net)
+	- 前端自动化项目构建工具——[webpack](http://webpack.github.io/docs/)
 	- 学习React、Angular、Vue(重点学一门)，结合[Github](https://api.github.com/)和[豆瓣](https://developers.douban.com/wiki/?title=guide&qq-pf-to=pcqq.discussion)等公开的API配合构建工具制作小demo
 	- 学习线上调试
 	- 学习Ajax，并学习一门后端语言，了解前后端是如何合作的
 	- 对SEO有一定了解
 	- 对Node.js有一定了解，并初步会用
-	- 看一些人文方面的书籍，比如《黑客与画家》、《浪潮之巅》、《程序员的呐喊》等等
+	- 了解[canvas](http://www.w3school.com.cn/html5/html5_canvas.asp)、[SVG绘图](http://www.w3school.com.cn/svg/)和WebGL(通过[Three.js](https://github.com/mrdoob/three.js/)去学习)
+	- 看一些人文方面的书籍，比如[《人月神话》](https://book.douban.com/subject/2230248/)、[《黑客与画家》](https://book.douban.com/subject/6021440/)、[《浪潮之巅》](https://book.douban.com/subject/6709783/)、[《程序员的呐喊》](https://book.douban.com/subject/25884108/)等等
 
 ### 第五阶段
 - 学习内容
