@@ -49,9 +49,9 @@
 	- 通过制作UI组件对代码进行抽象和封装
 	- 综合运用html+css+js的知识
 - 练手东西
-	- [UI组件之浮出层](ttp://ife.baidu.com/task/detail?taskId=37)
+	- [UI组件之浮出层](http://ife.baidu.com/task/detail?taskId=37)
 	- [UI组件之排序表格](http://ife.baidu.com/task/detail?taskId=38)
-	- [UI组件之日历组件](ttp://ife.baidu.com/task/detail?taskId=40)
+	- [UI组件之日历组件](http://ife.baidu.com/task/detail?taskId=40)
 	- 相册的多种布局——[拼图布局](http://ife.baidu.com/task/detail?taskId=43)、[瀑布布局](http://ife.baidu.com/task/detail?taskId=44)、[木桶布局](http://ife.baidu.com/task/detail?taskId=45)
 
 ### 第四阶段
