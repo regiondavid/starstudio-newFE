@@ -9,7 +9,7 @@
 	- 明确自己的目标，保持学习的热情并坚持学下去
 	- [Git的基本操作](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)以及配合[Github](https://github.com)的使用
 	- 学会搜索的技巧，善于自己去寻找和发现
-	- 关注一些大神的博客或者github，比如广受好评的[张鑫旭的博客](http://www.zhangxinxu.com/)；订阅一些资讯,接触一些新东西，比如[奇舞周刊](http://old.75team.com/weekly/)
+	- 关注一些大神的博客或者github，比如广受好评的[张鑫旭的博客](http://www.zhangxinxu.com/)[阮一峰的博客](http://www.ruanyifeng.com/blog/archives.html)；订阅一些资讯,接触一些新东西，比如[奇舞周刊](http://old.75team.com/weekly/)
 
 ###第一阶段
 - 学习方法：此部分偏重html和css，可直接看[W3C](http://www.w3school.com.cn/html/index.asp)或从[慕课网](http://www.imooc.com/)等平台看视频学习。这阶段一定要常练习，几天不敲真的会手生的。
@@ -40,7 +40,7 @@
 	- 结合[《DOM编程艺术》](https://book.douban.com/subject/6038371/)了解JavaScript中的基本语法、DOM操作等等
 	- 看着[《JavaScript高级程序设计》](https://book.douban.com/subject/10546125/)过一遍，把基础打牢，对于事件、闭包、作用域重点看。
 	- 结合[《JavaScript设计模式与开发实践》](https://book.douban.com/subject/26382780/)对JavaScript的设计模式进行了解
-	- JavaScript的动画的探索
+	- JavaScript的动画的探索[关于动画，你需要知道的](http://www.w3cplus.com/animaton/animations-you-should-know.html)
 	- 学习jQuery(建议在对原生js学习到一定程度的时候再开始)
 	- 根据自己需求去寻找其他书籍去学习，不一一列举了
 
